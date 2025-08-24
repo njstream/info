@@ -1,0 +1,55 @@
+
+GUIDA FIRESTICK (NO DOWNLOADER)
+MigliorIPTVMay 26, 2023
+
+DA FARE PER ABILITARE L’INSTALLAZIONE DELLE APPLICAZIONI.
+
+✅La prima cosa da fare è quella di abilitare le funzioni Debug ADB e Applicazioni da fonti sconosciute dalle impostazioni di Fire TV Stick.
+
+A questo scopo, sulla pagina iniziale di Fire TV, con l’ausilio del telecomando in dotazione spostatevi su Impostazioni > La mia Fire TV >poi cliccare ABOUT>E CLICCATE 7 volte con il tasto OK del TELECOMANDO MY FIRE TV STICK e apparirà così Opzioni Sviluppatore nel menu della vostra firestick
+
+Ed ecco apparire OPZIONE SVILUPPATORE
+
+✅Imposta sulla voce ACCESO (con un semplice click con il pulsante “Seleziona”) il Debug ADB e le Applicazioni da fonti sconosciute.
+
+✅Una volta fatta questa operazione potrai tranquillamente installare sulla tua Fire Stick Amazon tutte le app per dispositivi Android che vuoi!
+
+✅ Andiamo ora a vedere COME
+
+2)App2Fire
+
+Questa procedura utilizza l’applicazione “App2Fire” per copiare qualsiasi file (anche documenti, foto, archivi, ecc.) che si trova nella memoria di smartphone e tablet così come le applicazioni già installate. Requisito fondamentale è che la Fire TV Stick e lo smartphone siano collegati sotto la stessa rete Wi-Fi.
+
+✅Scaricare da Google Play e installare l'app “Apps2Fire
+
+✅Installare App Android App2fire 1
+
+1. Cliccare sui tre punti in alto a destra e selezionare la voce “Imposta”;
+
+2. Digitare l’indirizzo IP della Fire TV (es.: 192.168.1.24) o effettuare una scansione di tutti i dispositivi nella rete LAN. L’indirizzo IP della Fire TV è riportato nel menu Impostazioni (La mia Fire TV > Informazioni > Rete);
+
+3. Completata la connessione, sullo schermo del TV apparirà la richiesta “Consentire il debug dell’USB”. Spuntare la casella “Consenti sempre da questo computer” e poi cliccare su “OK”;
+
+
+4. Ritornare alla Apps2Fire e selezionare nel menu superiore “App locali” per copiare un’app dallo smartphone alla Fire TV Stick oppure cliccare sull’icona “freccia su” per copiare un file (doc, jpg, m3u, zip, ecc.);
+
+5. Selezionare la app o il file desiderati e poi cliccare su “Installa” o “Carica”
+
+6. I file e le app vengono salvati nella cartella Download della memoria interna della Fire TV Stick e sono accessibili con ES File Explorer (Locale > Download).
+✅APP MIGLIOR PLUS (con vpn)
+
+➖ https://rebrand.ly/migliorplusapp
+
+✅APP MIGLIOR PURPLE (con vpn)
+
+➖ https://rebrand.ly/migliorapp
+
+✅APP MIGLIOR PRIME (con vpn)
+
+➖ https://rebrand.ly/migliorprime
+
+✅APP MIGLIOR XCIPTV (con vpn)
+
+➖ https://rebrand.ly/xciptvmiglior
+
+
